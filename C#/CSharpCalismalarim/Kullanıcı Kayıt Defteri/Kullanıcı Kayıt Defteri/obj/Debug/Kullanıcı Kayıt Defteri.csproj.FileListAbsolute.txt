@@ -1,0 +1,8 @@
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\Kullanıcı Kayıt Defteri\Kullanıcı Kayıt Defteri\bin\Debug\Kullanıcı Kayıt Defteri.exe.config
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\Kullanıcı Kayıt Defteri\Kullanıcı Kayıt Defteri\bin\Debug\Kullanıcı Kayıt Defteri.exe
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\Kullanıcı Kayıt Defteri\Kullanıcı Kayıt Defteri\bin\Debug\Kullanıcı Kayıt Defteri.pdb
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\Kullanıcı Kayıt Defteri\Kullanıcı Kayıt Defteri\obj\Debug\Kullanıcı_Kayıt_Defteri.Form1.resources
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\Kullanıcı Kayıt Defteri\Kullanıcı Kayıt Defteri\obj\Debug\Kullanıcı_Kayıt_Defteri.Properties.Resources.resources
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\Kullanıcı Kayıt Defteri\Kullanıcı Kayıt Defteri\obj\Debug\Kullanıcı Kayıt Defteri.csproj.GenerateResource.cache
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\Kullanıcı Kayıt Defteri\Kullanıcı Kayıt Defteri\obj\Debug\Kullanıcı Kayıt Defteri.exe
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\Kullanıcı Kayıt Defteri\Kullanıcı Kayıt Defteri\obj\Debug\Kullanıcı Kayıt Defteri.pdb

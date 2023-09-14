@@ -1,0 +1,140 @@
+Buton ile yeni bir form'u açmak için kullanılan kodlar;
+form2 yeni = new form2(); -->form2ye isim vermek için kullanılır
+yeni.show(); --> formu göstermek için kullanılan komut
+this.hide(); --> üzerinde bulunduğumuz formu gizlemek için kullanılan komut
+
+---------------------------------------------------------------------------------------------
+Random Sayı üretmek için kullanılan kodlar;
+
+Random rastgele = new Random();
+int sayi=rastgele.Next(1,5);
+
+---------------------------------------------------------------------------------------------
+Windows Media Player'ı çalıştırmak için yazılan kodlar;
+
+axWindowsMediaPlayer1.URL ="DOSYANIN DİZİNİNİ BELİRTİYORUZ AMA \ --> \\ OLARAK DEĞİŞTİREREK";
+
+----------------------------------------------------------------------------------------------
+Picture Box active etmek için yazılan kodlar;
+
+pictureBox1.ImageLocation="DOSYANIN DİZİNİNİ BELİRTİYORUZ AMA \ --> \\ OLARAK DEĞİŞTİREREK";
+
+----------------------------------------------------------------------------------------------
+Arka Plana Ses Eklemek için yazılan kodlar;
+
+using System.Media;
+SoundPlayer ses = new SoundPlayer();
+string path = "C:\\Users\\omerr\\OneDrive\\Masaüstü\\C#\\zar.wav";
+ses.SoundLocation = path;
+
+----------------------------------------------------------------------------------------------
+Bilgisayarımızdaki Bir Dosyayı Açmak İçin kullandıgımız komut satırı;
+
+using System.IO;
+
+
+OpenFileDialog file = new OpenFileDialog();
+
+            if (file.ShowDialog() == DialogResult.OK)
+            {
+                FileInfo fi = new FileInfo(file.FileName);
+                if (fi.Exists)
+                {
+                    System.Diagnostics.Process.Start(file.FileName);
+                }
+                else
+                {
+
+                }
+
+            }
+-----------------------------------------------------------------------------------------------
+Yazdığımız Bir Belgeyi Metin Belegesine Kaydetmek için kullanılan kod satırı;
+
+SaveFileDialog save = new SaveFileDialog();
+            save.Filter = "Metin Dosyası|*.txt";
+            save.OverwritePrompt = true;
+            save.CreatePrompt = true;
+
+            if (save.ShowDialog() == DialogResult.OK)
+            {
+                StreamWriter Kayit = new StreamWriter(save.FileName);
+                Kayit.WriteLine(textBox1.Text);
+                Kayit.Close();
+            }
+------------------------------------------------------------------------------------------------
+Color Dialog İle Buton Renk Değiştirmek İçin Kullanılan Kod Satırı;
+
+ ColorDialog Renk = new ColorDialog();
+            Renk.ShowDialog();
+            button3.BackColor = Renk.Color;
+
+
+C#'da Bilgisayarımızdaki herhangi bir yere klasör eklemek için yazılan kodlar;
+string klasör = textBox1.text;
+Directory.CreateDirectory("Klasörün oluşturulması istenen dizin."+klasör);
+
+C#'da Bilgisayarımızdaki herhangi bir yerdeki klasörü silmek için yazılan kodlar;
+
+string klasör = textBox1.text;
+Directory.Delete("Klasörün oluşturulması istenen dizin."+klasör);
+
+Dizinde klasör var mı diye kontrol eden kodlar;
+
+string yol = "Klasörün yolu";
+MessageBox.Show(Directory.Exists(yol).ToString());
+
+Klasörün Oluşturma Tarihini Ekrana Veren kod satırı;
+
+string adres = "Klasörün yolu";
+MessageBox.Show(Directory.GetCreationTime(adres).ToString());
+
+Klasörün Yolunun Ekrana Yazan kod satırı;
+MessageBox.Show(Directory.GetCurrentDirectory().ToString());
+
+Dizindeki Klasör İsimlerini ListBox'a ekleneyen kod satırı;
+string adres = "Klasörün Yolu";
+string[] adres = Directory.GetDirectories(adres);
+foreach (string i in klasor){
+
+listBox1.Items.Add(i.ToString());
+
+}
+
+Klasörün son Erişim zamanını ekrana yazan komut satırı;
+
+string adres = "Klasörün Yolu";
+
+MessageBox.Show(Directory.GetLastAccessTime(adres).ToString());
+
+Klasörün Adını Değiştiren Komut Satırları;
+
+Directory.Move("KlasörünYolu\eskiisim","KlasörünYolu\yeniisim");
+
+Bilgisayardaki Sürücülerin ListBox'a Basan kod satırları;
+
+string[] dizi = System.IO.Directory.GetLogicalDrives();
+listBox1.Items.AddRange(dizi);
+
+Klasörün Bir Üst Dizinini Ekrana Basan Kod satırı;
+
+DirectoryInfo ustdizin =DirectoryInfo.GetParent("klasörün yolu");
+MessageBox.Show.(ustdizin.ToString());
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+D:\C#\CSharpCalismalarim\Veritabani-Tablo-Alan-Ekleme\Veritabani-Tablo-Alan-Ekleme\bin\Debug\Veritabani-Tablo-Alan-Ekleme.exe.config
+D:\C#\CSharpCalismalarim\Veritabani-Tablo-Alan-Ekleme\Veritabani-Tablo-Alan-Ekleme\bin\Debug\Veritabani-Tablo-Alan-Ekleme.exe
+D:\C#\CSharpCalismalarim\Veritabani-Tablo-Alan-Ekleme\Veritabani-Tablo-Alan-Ekleme\bin\Debug\Veritabani-Tablo-Alan-Ekleme.pdb
+D:\C#\CSharpCalismalarim\Veritabani-Tablo-Alan-Ekleme\Veritabani-Tablo-Alan-Ekleme\obj\Debug\Veritabani-Tablo-Alan-Ekleme.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\Veritabani-Tablo-Alan-Ekleme\Veritabani-Tablo-Alan-Ekleme\obj\Debug\Veritabani_Tablo_Alan_Ekleme.Form1.resources
+D:\C#\CSharpCalismalarim\Veritabani-Tablo-Alan-Ekleme\Veritabani-Tablo-Alan-Ekleme\obj\Debug\Veritabani_Tablo_Alan_Ekleme.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\Veritabani-Tablo-Alan-Ekleme\Veritabani-Tablo-Alan-Ekleme\obj\Debug\Veritabani-Tablo-Alan-Ekleme.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\Veritabani-Tablo-Alan-Ekleme\Veritabani-Tablo-Alan-Ekleme\obj\Debug\Veritabani-Tablo-Alan-Ekleme.csproj.CoreCompileInputs.cache
+D:\C#\CSharpCalismalarim\Veritabani-Tablo-Alan-Ekleme\Veritabani-Tablo-Alan-Ekleme\obj\Debug\Veritabani-Tablo-Alan-Ekleme.exe
+D:\C#\CSharpCalismalarim\Veritabani-Tablo-Alan-Ekleme\Veritabani-Tablo-Alan-Ekleme\obj\Debug\Veritabani-Tablo-Alan-Ekleme.pdb

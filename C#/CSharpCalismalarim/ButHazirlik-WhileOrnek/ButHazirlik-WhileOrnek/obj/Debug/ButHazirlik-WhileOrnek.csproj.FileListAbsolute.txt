@@ -1,0 +1,9 @@
+D:\C#\CSharpCalismalarim\ButHazirlik-WhileOrnek\ButHazirlik-WhileOrnek\bin\Debug\ButHazirlik-WhileOrnek.exe.config
+D:\C#\CSharpCalismalarim\ButHazirlik-WhileOrnek\ButHazirlik-WhileOrnek\bin\Debug\ButHazirlik-WhileOrnek.exe
+D:\C#\CSharpCalismalarim\ButHazirlik-WhileOrnek\ButHazirlik-WhileOrnek\bin\Debug\ButHazirlik-WhileOrnek.pdb
+D:\C#\CSharpCalismalarim\ButHazirlik-WhileOrnek\ButHazirlik-WhileOrnek\obj\Debug\ButHazirlik_WhileOrnek.Form1.resources
+D:\C#\CSharpCalismalarim\ButHazirlik-WhileOrnek\ButHazirlik-WhileOrnek\obj\Debug\ButHazirlik_WhileOrnek.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\ButHazirlik-WhileOrnek\ButHazirlik-WhileOrnek\obj\Debug\ButHazirlik-WhileOrnek.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\ButHazirlik-WhileOrnek\ButHazirlik-WhileOrnek\obj\Debug\ButHazirlik-WhileOrnek.exe
+D:\C#\CSharpCalismalarim\ButHazirlik-WhileOrnek\ButHazirlik-WhileOrnek\obj\Debug\ButHazirlik-WhileOrnek.pdb
+D:\C#\CSharpCalismalarim\ButHazirlik-WhileOrnek\ButHazirlik-WhileOrnek\obj\Debug\ButHazirlik-WhileOrnek.csprojAssemblyReference.cache

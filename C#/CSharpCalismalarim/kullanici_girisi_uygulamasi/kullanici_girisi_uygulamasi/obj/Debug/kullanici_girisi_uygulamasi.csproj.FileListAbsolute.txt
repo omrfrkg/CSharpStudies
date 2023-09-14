@@ -1,0 +1,10 @@
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\kullanici_girisi_uygulamasi\kullanici_girisi_uygulamasi\bin\Debug\kullanici_girisi_uygulamasi.exe.config
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\kullanici_girisi_uygulamasi\kullanici_girisi_uygulamasi\bin\Debug\kullanici_girisi_uygulamasi.exe
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\kullanici_girisi_uygulamasi\kullanici_girisi_uygulamasi\bin\Debug\kullanici_girisi_uygulamasi.pdb
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\kullanici_girisi_uygulamasi\kullanici_girisi_uygulamasi\obj\Debug\kullanici_girisi_uygulamasi.csprojAssemblyReference.cache
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\kullanici_girisi_uygulamasi\kullanici_girisi_uygulamasi\obj\Debug\kullanici_girisi_uygulamasi.Form1.resources
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\kullanici_girisi_uygulamasi\kullanici_girisi_uygulamasi\obj\Debug\kullanici_girisi_uygulamasi.Properties.Resources.resources
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\kullanici_girisi_uygulamasi\kullanici_girisi_uygulamasi\obj\Debug\kullanici_girisi_uygulamasi.csproj.GenerateResource.cache
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\kullanici_girisi_uygulamasi\kullanici_girisi_uygulamasi\obj\Debug\kullanici_girisi_uygulamasi.exe
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\kullanici_girisi_uygulamasi\kullanici_girisi_uygulamasi\obj\Debug\kullanici_girisi_uygulamasi.pdb
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\kullanici_girisi_uygulamasi\kullanici_girisi_uygulamasi\obj\Debug\kullanici_girisi_uygulamasi.Form2.resources

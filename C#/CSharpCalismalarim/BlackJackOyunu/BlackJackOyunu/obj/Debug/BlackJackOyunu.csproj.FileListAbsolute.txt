@@ -1,0 +1,9 @@
+D:\C#\CSharpCalismalarim\BlackJackOyunu\BlackJackOyunu\bin\Debug\BlackJackOyunu.exe.config
+D:\C#\CSharpCalismalarim\BlackJackOyunu\BlackJackOyunu\bin\Debug\BlackJackOyunu.exe
+D:\C#\CSharpCalismalarim\BlackJackOyunu\BlackJackOyunu\bin\Debug\BlackJackOyunu.pdb
+D:\C#\CSharpCalismalarim\BlackJackOyunu\BlackJackOyunu\obj\Debug\BlackJackOyunu.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\BlackJackOyunu\BlackJackOyunu\obj\Debug\BlackJackOyunu.Form1.resources
+D:\C#\CSharpCalismalarim\BlackJackOyunu\BlackJackOyunu\obj\Debug\BlackJackOyunu.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\BlackJackOyunu\BlackJackOyunu\obj\Debug\BlackJackOyunu.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\BlackJackOyunu\BlackJackOyunu\obj\Debug\BlackJackOyunu.exe
+D:\C#\CSharpCalismalarim\BlackJackOyunu\BlackJackOyunu\obj\Debug\BlackJackOyunu.pdb

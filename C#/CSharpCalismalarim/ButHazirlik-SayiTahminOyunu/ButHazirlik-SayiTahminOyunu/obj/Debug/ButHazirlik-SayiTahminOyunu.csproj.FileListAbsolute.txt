@@ -1,0 +1,9 @@
+D:\C#\CSharpCalismalarim\ButHazirlik-SayiTahminOyunu\ButHazirlik-SayiTahminOyunu\bin\Debug\ButHazirlik-SayiTahminOyunu.exe.config
+D:\C#\CSharpCalismalarim\ButHazirlik-SayiTahminOyunu\ButHazirlik-SayiTahminOyunu\bin\Debug\ButHazirlik-SayiTahminOyunu.exe
+D:\C#\CSharpCalismalarim\ButHazirlik-SayiTahminOyunu\ButHazirlik-SayiTahminOyunu\bin\Debug\ButHazirlik-SayiTahminOyunu.pdb
+D:\C#\CSharpCalismalarim\ButHazirlik-SayiTahminOyunu\ButHazirlik-SayiTahminOyunu\obj\Debug\ButHazirlik-SayiTahminOyunu.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\ButHazirlik-SayiTahminOyunu\ButHazirlik-SayiTahminOyunu\obj\Debug\ButHazirlik_SayiTahminOyunu.Form1.resources
+D:\C#\CSharpCalismalarim\ButHazirlik-SayiTahminOyunu\ButHazirlik-SayiTahminOyunu\obj\Debug\ButHazirlik_SayiTahminOyunu.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\ButHazirlik-SayiTahminOyunu\ButHazirlik-SayiTahminOyunu\obj\Debug\ButHazirlik-SayiTahminOyunu.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\ButHazirlik-SayiTahminOyunu\ButHazirlik-SayiTahminOyunu\obj\Debug\ButHazirlik-SayiTahminOyunu.exe
+D:\C#\CSharpCalismalarim\ButHazirlik-SayiTahminOyunu\ButHazirlik-SayiTahminOyunu\obj\Debug\ButHazirlik-SayiTahminOyunu.pdb

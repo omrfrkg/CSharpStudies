@@ -1,0 +1,8 @@
+C:\Users\omerr\source\repos\menustrip_deneme\menustrip_deneme\bin\Debug\menustrip_deneme.exe.config
+C:\Users\omerr\source\repos\menustrip_deneme\menustrip_deneme\bin\Debug\menustrip_deneme.exe
+C:\Users\omerr\source\repos\menustrip_deneme\menustrip_deneme\bin\Debug\menustrip_deneme.pdb
+C:\Users\omerr\source\repos\menustrip_deneme\menustrip_deneme\obj\Debug\menustrip_deneme.Form1.resources
+C:\Users\omerr\source\repos\menustrip_deneme\menustrip_deneme\obj\Debug\menustrip_deneme.Properties.Resources.resources
+C:\Users\omerr\source\repos\menustrip_deneme\menustrip_deneme\obj\Debug\menustrip_deneme.csproj.GenerateResource.cache
+C:\Users\omerr\source\repos\menustrip_deneme\menustrip_deneme\obj\Debug\menustrip_deneme.exe
+C:\Users\omerr\source\repos\menustrip_deneme\menustrip_deneme\obj\Debug\menustrip_deneme.pdb

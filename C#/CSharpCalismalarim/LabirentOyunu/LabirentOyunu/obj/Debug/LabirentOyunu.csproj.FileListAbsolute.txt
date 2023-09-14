@@ -1,0 +1,9 @@
+D:\C#\CSharpCalismalarim\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe.config
+D:\C#\CSharpCalismalarim\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe
+D:\C#\CSharpCalismalarim\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.pdb
+D:\C#\CSharpCalismalarim\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.Form1.resources
+D:\C#\CSharpCalismalarim\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.exe
+D:\C#\CSharpCalismalarim\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.pdb

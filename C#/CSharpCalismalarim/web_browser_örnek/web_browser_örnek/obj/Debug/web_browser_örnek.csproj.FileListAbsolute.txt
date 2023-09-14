@@ -1,0 +1,8 @@
+C:\Users\omerr\source\repos\web_browser_örnek\web_browser_örnek\bin\Debug\web_browser_örnek.exe.config
+C:\Users\omerr\source\repos\web_browser_örnek\web_browser_örnek\bin\Debug\web_browser_örnek.exe
+C:\Users\omerr\source\repos\web_browser_örnek\web_browser_örnek\bin\Debug\web_browser_örnek.pdb
+C:\Users\omerr\source\repos\web_browser_örnek\web_browser_örnek\obj\Debug\web_browser_örnek.Form1.resources
+C:\Users\omerr\source\repos\web_browser_örnek\web_browser_örnek\obj\Debug\web_browser_örnek.Properties.Resources.resources
+C:\Users\omerr\source\repos\web_browser_örnek\web_browser_örnek\obj\Debug\web_browser_örnek.csproj.GenerateResource.cache
+C:\Users\omerr\source\repos\web_browser_örnek\web_browser_örnek\obj\Debug\web_browser_örnek.exe
+C:\Users\omerr\source\repos\web_browser_örnek\web_browser_örnek\obj\Debug\web_browser_örnek.pdb

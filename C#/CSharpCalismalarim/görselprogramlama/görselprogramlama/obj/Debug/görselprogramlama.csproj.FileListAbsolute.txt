@@ -1,0 +1,9 @@
+C:\Users\omerr\source\repos\görselprogramlama\görselprogramlama\bin\Debug\görselprogramlama.exe.config
+C:\Users\omerr\source\repos\görselprogramlama\görselprogramlama\bin\Debug\görselprogramlama.exe
+C:\Users\omerr\source\repos\görselprogramlama\görselprogramlama\bin\Debug\görselprogramlama.pdb
+C:\Users\omerr\source\repos\görselprogramlama\görselprogramlama\obj\Debug\görselprogramlama.csprojAssemblyReference.cache
+C:\Users\omerr\source\repos\görselprogramlama\görselprogramlama\obj\Debug\görselprogramlama.Form1.resources
+C:\Users\omerr\source\repos\görselprogramlama\görselprogramlama\obj\Debug\görselprogramlama.Properties.Resources.resources
+C:\Users\omerr\source\repos\görselprogramlama\görselprogramlama\obj\Debug\görselprogramlama.csproj.GenerateResource.cache
+C:\Users\omerr\source\repos\görselprogramlama\görselprogramlama\obj\Debug\görselprogramlama.exe
+C:\Users\omerr\source\repos\görselprogramlama\görselprogramlama\obj\Debug\görselprogramlama.pdb

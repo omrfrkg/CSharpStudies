@@ -1,0 +1,8 @@
+D:\C#\CSharpCalismalarim\Grafik2\Grafik2\bin\Debug\Grafik2.exe.config
+D:\C#\CSharpCalismalarim\Grafik2\Grafik2\bin\Debug\Grafik2.exe
+D:\C#\CSharpCalismalarim\Grafik2\Grafik2\bin\Debug\Grafik2.pdb
+D:\C#\CSharpCalismalarim\Grafik2\Grafik2\obj\Debug\Grafik2.Form1.resources
+D:\C#\CSharpCalismalarim\Grafik2\Grafik2\obj\Debug\Grafik2.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\Grafik2\Grafik2\obj\Debug\Grafik2.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\Grafik2\Grafik2\obj\Debug\Grafik2.exe
+D:\C#\CSharpCalismalarim\Grafik2\Grafik2\obj\Debug\Grafik2.pdb

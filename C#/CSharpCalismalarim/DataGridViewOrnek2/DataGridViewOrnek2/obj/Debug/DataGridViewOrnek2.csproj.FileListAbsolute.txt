@@ -1,0 +1,9 @@
+D:\C#\CSharpCalismalarim\DataGridViewOrnek2\DataGridViewOrnek2\bin\Debug\DataGridViewOrnek2.exe.config
+D:\C#\CSharpCalismalarim\DataGridViewOrnek2\DataGridViewOrnek2\bin\Debug\DataGridViewOrnek2.exe
+D:\C#\CSharpCalismalarim\DataGridViewOrnek2\DataGridViewOrnek2\bin\Debug\DataGridViewOrnek2.pdb
+D:\C#\CSharpCalismalarim\DataGridViewOrnek2\DataGridViewOrnek2\obj\Debug\DataGridViewOrnek2.Form1.resources
+D:\C#\CSharpCalismalarim\DataGridViewOrnek2\DataGridViewOrnek2\obj\Debug\DataGridViewOrnek2.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\DataGridViewOrnek2\DataGridViewOrnek2\obj\Debug\DataGridViewOrnek2.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\DataGridViewOrnek2\DataGridViewOrnek2\obj\Debug\DataGridViewOrnek2.exe
+D:\C#\CSharpCalismalarim\DataGridViewOrnek2\DataGridViewOrnek2\obj\Debug\DataGridViewOrnek2.pdb
+D:\C#\CSharpCalismalarim\DataGridViewOrnek2\DataGridViewOrnek2\obj\Debug\DataGridViewOrnek2.csprojAssemblyReference.cache

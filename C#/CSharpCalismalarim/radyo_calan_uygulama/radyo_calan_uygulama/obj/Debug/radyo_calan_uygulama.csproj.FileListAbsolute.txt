@@ -1,0 +1,15 @@
+D:\C#\CSharpCalismalarim\radyo_calan_uygulama\radyo_calan_uygulama\bin\Debug\radyo_calan_uygulama.exe.config
+D:\C#\CSharpCalismalarim\radyo_calan_uygulama\radyo_calan_uygulama\bin\Debug\radyo_calan_uygulama.exe
+D:\C#\CSharpCalismalarim\radyo_calan_uygulama\radyo_calan_uygulama\bin\Debug\radyo_calan_uygulama.pdb
+D:\C#\CSharpCalismalarim\radyo_calan_uygulama\radyo_calan_uygulama\bin\Debug\Interop.WMPLib.dll
+D:\C#\CSharpCalismalarim\radyo_calan_uygulama\radyo_calan_uygulama\bin\Debug\AxInterop.WMPLib.dll
+D:\C#\CSharpCalismalarim\radyo_calan_uygulama\radyo_calan_uygulama\obj\Debug\radyo_calan_uygulama.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\radyo_calan_uygulama\radyo_calan_uygulama\obj\Debug\Interop.WMPLib.dll
+D:\C#\CSharpCalismalarim\radyo_calan_uygulama\radyo_calan_uygulama\obj\Debug\AxInterop.WMPLib.dll
+D:\C#\CSharpCalismalarim\radyo_calan_uygulama\radyo_calan_uygulama\obj\Debug\radyo_calan_uygulama.csproj.ResolveComReference.cache
+D:\C#\CSharpCalismalarim\radyo_calan_uygulama\radyo_calan_uygulama\obj\Debug\radyo_calan_uygulama.Form1.resources
+D:\C#\CSharpCalismalarim\radyo_calan_uygulama\radyo_calan_uygulama\obj\Debug\radyo_calan_uygulama.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\radyo_calan_uygulama\radyo_calan_uygulama\obj\Debug\radyo_calan_uygulama.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\radyo_calan_uygulama\radyo_calan_uygulama\obj\Debug\radyo_calan_uygulama.exe
+D:\C#\CSharpCalismalarim\radyo_calan_uygulama\radyo_calan_uygulama\obj\Debug\radyo_calan_uygulama.pdb
+D:\C#\CSharpCalismalarim\radyo_calan_uygulama\radyo_calan_uygulama\obj\Debug\radyo_calan_uygulama.csproj.CoreCompileInputs.cache

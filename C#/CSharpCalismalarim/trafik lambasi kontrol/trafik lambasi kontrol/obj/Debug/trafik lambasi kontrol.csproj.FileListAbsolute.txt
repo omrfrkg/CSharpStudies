@@ -1,0 +1,8 @@
+D:\C#\CSharpCalismalarim\trafik lambasi kontrol\trafik lambasi kontrol\bin\Debug\trafik lambasi kontrol.exe.config
+D:\C#\CSharpCalismalarim\trafik lambasi kontrol\trafik lambasi kontrol\bin\Debug\trafik lambasi kontrol.exe
+D:\C#\CSharpCalismalarim\trafik lambasi kontrol\trafik lambasi kontrol\bin\Debug\trafik lambasi kontrol.pdb
+D:\C#\CSharpCalismalarim\trafik lambasi kontrol\trafik lambasi kontrol\obj\Debug\trafik_lambasi_kontrol.Form1.resources
+D:\C#\CSharpCalismalarim\trafik lambasi kontrol\trafik lambasi kontrol\obj\Debug\trafik_lambasi_kontrol.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\trafik lambasi kontrol\trafik lambasi kontrol\obj\Debug\trafik lambasi kontrol.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\trafik lambasi kontrol\trafik lambasi kontrol\obj\Debug\trafik lambasi kontrol.exe
+D:\C#\CSharpCalismalarim\trafik lambasi kontrol\trafik lambasi kontrol\obj\Debug\trafik lambasi kontrol.pdb

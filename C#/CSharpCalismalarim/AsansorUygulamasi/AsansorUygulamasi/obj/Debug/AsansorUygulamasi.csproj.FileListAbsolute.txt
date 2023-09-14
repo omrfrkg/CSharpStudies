@@ -1,0 +1,9 @@
+D:\C#\CSharpCalismalarim\AsansorUygulamasi\AsansorUygulamasi\bin\Debug\AsansorUygulamasi.exe.config
+D:\C#\CSharpCalismalarim\AsansorUygulamasi\AsansorUygulamasi\bin\Debug\AsansorUygulamasi.exe
+D:\C#\CSharpCalismalarim\AsansorUygulamasi\AsansorUygulamasi\bin\Debug\AsansorUygulamasi.pdb
+D:\C#\CSharpCalismalarim\AsansorUygulamasi\AsansorUygulamasi\obj\Debug\AsansorUygulamasi.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\AsansorUygulamasi\AsansorUygulamasi\obj\Debug\AsansorUygulamasi.Form1.resources
+D:\C#\CSharpCalismalarim\AsansorUygulamasi\AsansorUygulamasi\obj\Debug\AsansorUygulamasi.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\AsansorUygulamasi\AsansorUygulamasi\obj\Debug\AsansorUygulamasi.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\AsansorUygulamasi\AsansorUygulamasi\obj\Debug\AsansorUygulamasi.exe
+D:\C#\CSharpCalismalarim\AsansorUygulamasi\AsansorUygulamasi\obj\Debug\AsansorUygulamasi.pdb

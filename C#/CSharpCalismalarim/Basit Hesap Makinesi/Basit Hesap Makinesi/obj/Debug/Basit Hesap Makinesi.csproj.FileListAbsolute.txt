@@ -1,0 +1,9 @@
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\Basit Hesap Makinesi.exe.config
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\Basit Hesap Makinesi.exe
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\Basit Hesap Makinesi.pdb
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit Hesap Makinesi.csprojAssemblyReference.cache
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit_Hesap_Makinesi.Form1.resources
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit_Hesap_Makinesi.Properties.Resources.resources
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit Hesap Makinesi.exe
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\Basit Hesap Makinesi.pdb

@@ -1,0 +1,9 @@
+D:\C#\CSharpCalismalarim\ButHazirlik-ForOrnekleri\ButHazirlik-ForOrnekleri\bin\Debug\ButHazirlik-ForOrnekleri.exe.config
+D:\C#\CSharpCalismalarim\ButHazirlik-ForOrnekleri\ButHazirlik-ForOrnekleri\bin\Debug\ButHazirlik-ForOrnekleri.exe
+D:\C#\CSharpCalismalarim\ButHazirlik-ForOrnekleri\ButHazirlik-ForOrnekleri\bin\Debug\ButHazirlik-ForOrnekleri.pdb
+D:\C#\CSharpCalismalarim\ButHazirlik-ForOrnekleri\ButHazirlik-ForOrnekleri\obj\Debug\ButHazirlik_ForOrnekleri.Form1.resources
+D:\C#\CSharpCalismalarim\ButHazirlik-ForOrnekleri\ButHazirlik-ForOrnekleri\obj\Debug\ButHazirlik_ForOrnekleri.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\ButHazirlik-ForOrnekleri\ButHazirlik-ForOrnekleri\obj\Debug\ButHazirlik-ForOrnekleri.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\ButHazirlik-ForOrnekleri\ButHazirlik-ForOrnekleri\obj\Debug\ButHazirlik-ForOrnekleri.exe
+D:\C#\CSharpCalismalarim\ButHazirlik-ForOrnekleri\ButHazirlik-ForOrnekleri\obj\Debug\ButHazirlik-ForOrnekleri.pdb
+D:\C#\CSharpCalismalarim\ButHazirlik-ForOrnekleri\ButHazirlik-ForOrnekleri\obj\Debug\ButHazirlik-ForOrnekleri.csprojAssemblyReference.cache

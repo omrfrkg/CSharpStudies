@@ -1,0 +1,10 @@
+D:\C#\CSharpCalismalarim\PansiyonKayit\PansiyonKayit\obj\Debug\PansiyonKayit.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\PansiyonKayit\PansiyonKayit\obj\Debug\PansiyonKayit.Form1.resources
+D:\C#\CSharpCalismalarim\PansiyonKayit\PansiyonKayit\obj\Debug\PansiyonKayit.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\PansiyonKayit\PansiyonKayit\obj\Debug\PansiyonKayit.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\PansiyonKayit\PansiyonKayit\bin\Debug\PansiyonKayit.exe.config
+D:\C#\CSharpCalismalarim\PansiyonKayit\PansiyonKayit\bin\Debug\PansiyonKayit.exe
+D:\C#\CSharpCalismalarim\PansiyonKayit\PansiyonKayit\bin\Debug\PansiyonKayit.pdb
+D:\C#\CSharpCalismalarim\PansiyonKayit\PansiyonKayit\obj\Debug\PansiyonKayit.exe
+D:\C#\CSharpCalismalarim\PansiyonKayit\PansiyonKayit\obj\Debug\PansiyonKayit.pdb
+D:\C#\CSharpCalismalarim\PansiyonKayit\PansiyonKayit\obj\Debug\PansiyonKayit.AdminFrm.resources

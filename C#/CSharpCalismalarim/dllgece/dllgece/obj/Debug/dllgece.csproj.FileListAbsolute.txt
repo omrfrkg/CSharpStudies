@@ -1,0 +1,5 @@
+D:\C#\CSharpCalismalarim\dllgece\dllgece\bin\Debug\dllgece.dll
+D:\C#\CSharpCalismalarim\dllgece\dllgece\bin\Debug\dllgece.pdb
+D:\C#\CSharpCalismalarim\dllgece\dllgece\obj\Debug\dllgece.csproj.CoreCompileInputs.cache
+D:\C#\CSharpCalismalarim\dllgece\dllgece\obj\Debug\dllgece.dll
+D:\C#\CSharpCalismalarim\dllgece\dllgece\obj\Debug\dllgece.pdb

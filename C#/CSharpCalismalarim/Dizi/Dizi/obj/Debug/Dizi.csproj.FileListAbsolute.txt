@@ -1,0 +1,8 @@
+D:\C#\CSharpCalismalarim\Dizi\Dizi\bin\Debug\Dizi.exe.config
+D:\C#\CSharpCalismalarim\Dizi\Dizi\bin\Debug\Dizi.exe
+D:\C#\CSharpCalismalarim\Dizi\Dizi\bin\Debug\Dizi.pdb
+D:\C#\CSharpCalismalarim\Dizi\Dizi\obj\Debug\Dizi.Form1.resources
+D:\C#\CSharpCalismalarim\Dizi\Dizi\obj\Debug\Dizi.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\Dizi\Dizi\obj\Debug\Dizi.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\Dizi\Dizi\obj\Debug\Dizi.exe
+D:\C#\CSharpCalismalarim\Dizi\Dizi\obj\Debug\Dizi.pdb

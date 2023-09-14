@@ -1,0 +1,9 @@
+C:\Users\omerr\source\repos\ilkuygulamam\ilkuygulamam\bin\Debug\ilkuygulamam.exe.config
+C:\Users\omerr\source\repos\ilkuygulamam\ilkuygulamam\bin\Debug\ilkuygulamam.exe
+C:\Users\omerr\source\repos\ilkuygulamam\ilkuygulamam\bin\Debug\ilkuygulamam.pdb
+C:\Users\omerr\source\repos\ilkuygulamam\ilkuygulamam\obj\Debug\ilkuygulamam.csprojAssemblyReference.cache
+C:\Users\omerr\source\repos\ilkuygulamam\ilkuygulamam\obj\Debug\ilkuygulamam.Form1.resources
+C:\Users\omerr\source\repos\ilkuygulamam\ilkuygulamam\obj\Debug\ilkuygulamam.Properties.Resources.resources
+C:\Users\omerr\source\repos\ilkuygulamam\ilkuygulamam\obj\Debug\ilkuygulamam.csproj.GenerateResource.cache
+C:\Users\omerr\source\repos\ilkuygulamam\ilkuygulamam\obj\Debug\ilkuygulamam.exe
+C:\Users\omerr\source\repos\ilkuygulamam\ilkuygulamam\obj\Debug\ilkuygulamam.pdb

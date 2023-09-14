@@ -1,0 +1,6 @@
+C:\Users\omerr\source\repos\2 sayinin toplamını bulan  program\2 sayinin toplamını bulan  program\bin\Debug\2 sayinin toplamını bulan  program.exe.config
+C:\Users\omerr\source\repos\2 sayinin toplamını bulan  program\2 sayinin toplamını bulan  program\bin\Debug\2 sayinin toplamını bulan  program.exe
+C:\Users\omerr\source\repos\2 sayinin toplamını bulan  program\2 sayinin toplamını bulan  program\bin\Debug\2 sayinin toplamını bulan  program.pdb
+C:\Users\omerr\source\repos\2 sayinin toplamını bulan  program\2 sayinin toplamını bulan  program\obj\Debug\2 sayinin toplamını bulan  program.csprojAssemblyReference.cache
+C:\Users\omerr\source\repos\2 sayinin toplamını bulan  program\2 sayinin toplamını bulan  program\obj\Debug\2 sayinin toplamını bulan  program.exe
+C:\Users\omerr\source\repos\2 sayinin toplamını bulan  program\2 sayinin toplamını bulan  program\obj\Debug\2 sayinin toplamını bulan  program.pdb

@@ -1,0 +1,8 @@
+D:\C#\CSharpCalismalarim\MukemmelSayi\MukemmelSayi\bin\Debug\MukemmelSayi.exe.config
+D:\C#\CSharpCalismalarim\MukemmelSayi\MukemmelSayi\bin\Debug\MukemmelSayi.exe
+D:\C#\CSharpCalismalarim\MukemmelSayi\MukemmelSayi\bin\Debug\MukemmelSayi.pdb
+D:\C#\CSharpCalismalarim\MukemmelSayi\MukemmelSayi\obj\Debug\MukemmelSayi.Form1.resources
+D:\C#\CSharpCalismalarim\MukemmelSayi\MukemmelSayi\obj\Debug\MukemmelSayi.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\MukemmelSayi\MukemmelSayi\obj\Debug\MukemmelSayi.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\MukemmelSayi\MukemmelSayi\obj\Debug\MukemmelSayi.exe
+D:\C#\CSharpCalismalarim\MukemmelSayi\MukemmelSayi\obj\Debug\MukemmelSayi.pdb

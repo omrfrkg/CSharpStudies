@@ -1,0 +1,14 @@
+D:\C#\CSharpCalismalarim\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+D:\C#\CSharpCalismalarim\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+D:\C#\CSharpCalismalarim\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+D:\C#\CSharpCalismalarim\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+D:\C#\CSharpCalismalarim\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+D:\C#\CSharpCalismalarim\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+D:\C#\CSharpCalismalarim\FlappyBird\FlappyBird\obj\Debug\Interop.WMPLib.dll
+D:\C#\CSharpCalismalarim\FlappyBird\FlappyBird\obj\Debug\AxInterop.WMPLib.dll
+D:\C#\CSharpCalismalarim\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.ResolveComReference.cache
+D:\C#\CSharpCalismalarim\FlappyBird\FlappyBird\bin\Debug\Interop.WMPLib.dll
+D:\C#\CSharpCalismalarim\FlappyBird\FlappyBird\bin\Debug\AxInterop.WMPLib.dll

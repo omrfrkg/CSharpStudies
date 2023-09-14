@@ -1,0 +1,9 @@
+C:\Users\omerr\source\repos\klasor_olusturma\klasor_olusturma\bin\Debug\klasor_olusturma.exe.config
+C:\Users\omerr\source\repos\klasor_olusturma\klasor_olusturma\bin\Debug\klasor_olusturma.exe
+C:\Users\omerr\source\repos\klasor_olusturma\klasor_olusturma\bin\Debug\klasor_olusturma.pdb
+C:\Users\omerr\source\repos\klasor_olusturma\klasor_olusturma\obj\Debug\klasor_olusturma.csprojAssemblyReference.cache
+C:\Users\omerr\source\repos\klasor_olusturma\klasor_olusturma\obj\Debug\klasor_olusturma.Form1.resources
+C:\Users\omerr\source\repos\klasor_olusturma\klasor_olusturma\obj\Debug\klasor_olusturma.Properties.Resources.resources
+C:\Users\omerr\source\repos\klasor_olusturma\klasor_olusturma\obj\Debug\klasor_olusturma.csproj.GenerateResource.cache
+C:\Users\omerr\source\repos\klasor_olusturma\klasor_olusturma\obj\Debug\klasor_olusturma.exe
+C:\Users\omerr\source\repos\klasor_olusturma\klasor_olusturma\obj\Debug\klasor_olusturma.pdb

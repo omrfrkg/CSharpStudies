@@ -1,0 +1,8 @@
+D:\C#\CSharpCalismalarim\Karakter Kısıtlama\Karakter Kısıtlama\bin\Debug\Karakter Kısıtlama.exe.config
+D:\C#\CSharpCalismalarim\Karakter Kısıtlama\Karakter Kısıtlama\bin\Debug\Karakter Kısıtlama.exe
+D:\C#\CSharpCalismalarim\Karakter Kısıtlama\Karakter Kısıtlama\bin\Debug\Karakter Kısıtlama.pdb
+D:\C#\CSharpCalismalarim\Karakter Kısıtlama\Karakter Kısıtlama\obj\Debug\Karakter_Kısıtlama.Form1.resources
+D:\C#\CSharpCalismalarim\Karakter Kısıtlama\Karakter Kısıtlama\obj\Debug\Karakter_Kısıtlama.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\Karakter Kısıtlama\Karakter Kısıtlama\obj\Debug\Karakter Kısıtlama.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\Karakter Kısıtlama\Karakter Kısıtlama\obj\Debug\Karakter Kısıtlama.exe
+D:\C#\CSharpCalismalarim\Karakter Kısıtlama\Karakter Kısıtlama\obj\Debug\Karakter Kısıtlama.pdb

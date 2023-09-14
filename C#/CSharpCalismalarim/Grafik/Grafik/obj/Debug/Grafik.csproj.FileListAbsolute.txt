@@ -1,0 +1,9 @@
+D:\C#\CSharpCalismalarim\Grafik\Grafik\bin\Debug\Grafik.exe.config
+D:\C#\CSharpCalismalarim\Grafik\Grafik\bin\Debug\Grafik.exe
+D:\C#\CSharpCalismalarim\Grafik\Grafik\bin\Debug\Grafik.pdb
+D:\C#\CSharpCalismalarim\Grafik\Grafik\obj\Debug\Grafik.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\Grafik\Grafik\obj\Debug\Grafik.Form1.resources
+D:\C#\CSharpCalismalarim\Grafik\Grafik\obj\Debug\Grafik.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\Grafik\Grafik\obj\Debug\Grafik.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\Grafik\Grafik\obj\Debug\Grafik.exe
+D:\C#\CSharpCalismalarim\Grafik\Grafik\obj\Debug\Grafik.pdb

@@ -1,0 +1,13 @@
+D:\C#\CSharpCalismalarim\GeceProje\GeceProje\bin\Debug\GeceProje.exe.config
+D:\C#\CSharpCalismalarim\GeceProje\GeceProje\bin\Debug\GeceProje.exe
+D:\C#\CSharpCalismalarim\GeceProje\GeceProje\bin\Debug\GeceProje.pdb
+D:\C#\CSharpCalismalarim\GeceProje\GeceProje\bin\Debug\dllgece.dll
+D:\C#\CSharpCalismalarim\GeceProje\GeceProje\bin\Debug\dllgece.pdb
+D:\C#\CSharpCalismalarim\GeceProje\GeceProje\obj\Debug\GeceProje.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\GeceProje\GeceProje\obj\Debug\GeceProje.Form1.resources
+D:\C#\CSharpCalismalarim\GeceProje\GeceProje\obj\Debug\GeceProje.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\GeceProje\GeceProje\obj\Debug\GeceProje.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\GeceProje\GeceProje\obj\Debug\GeceProje.csproj.CoreCompileInputs.cache
+D:\C#\CSharpCalismalarim\GeceProje\GeceProje\obj\Debug\GeceProje.csproj.CopyComplete
+D:\C#\CSharpCalismalarim\GeceProje\GeceProje\obj\Debug\GeceProje.exe
+D:\C#\CSharpCalismalarim\GeceProje\GeceProje\obj\Debug\GeceProje.pdb

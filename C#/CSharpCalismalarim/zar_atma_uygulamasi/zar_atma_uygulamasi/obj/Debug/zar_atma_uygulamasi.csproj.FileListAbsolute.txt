@@ -1,0 +1,14 @@
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\zar_atma_uygulamasi\zar_atma_uygulamasi\bin\Debug\zar_atma_uygulamasi.exe.config
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\zar_atma_uygulamasi\zar_atma_uygulamasi\bin\Debug\zar_atma_uygulamasi.exe
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\zar_atma_uygulamasi\zar_atma_uygulamasi\bin\Debug\zar_atma_uygulamasi.pdb
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\zar_atma_uygulamasi\zar_atma_uygulamasi\obj\Debug\zar_atma_uygulamasi.csprojAssemblyReference.cache
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\zar_atma_uygulamasi\zar_atma_uygulamasi\obj\Debug\zar_atma_uygulamasi.Form1.resources
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\zar_atma_uygulamasi\zar_atma_uygulamasi\obj\Debug\zar_atma_uygulamasi.Properties.Resources.resources
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\zar_atma_uygulamasi\zar_atma_uygulamasi\obj\Debug\zar_atma_uygulamasi.csproj.GenerateResource.cache
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\zar_atma_uygulamasi\zar_atma_uygulamasi\obj\Debug\zar_atma_uygulamasi.exe
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\zar_atma_uygulamasi\zar_atma_uygulamasi\obj\Debug\zar_atma_uygulamasi.pdb
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\zar_atma_uygulamasi\zar_atma_uygulamasi\bin\Debug\Interop.WMPLib.dll
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\zar_atma_uygulamasi\zar_atma_uygulamasi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\zar_atma_uygulamasi\zar_atma_uygulamasi\obj\Debug\Interop.WMPLib.dll
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\zar_atma_uygulamasi\zar_atma_uygulamasi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\zar_atma_uygulamasi\zar_atma_uygulamasi\obj\Debug\zar_atma_uygulamasi.csproj.ResolveComReference.cache

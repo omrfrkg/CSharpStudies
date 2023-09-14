@@ -1,0 +1,9 @@
+D:\C#\CSharpCalismalarim\tsl_oyunu\tsl_oyunu\bin\Debug\tsl_oyunu.exe.config
+D:\C#\CSharpCalismalarim\tsl_oyunu\tsl_oyunu\bin\Debug\tsl_oyunu.exe
+D:\C#\CSharpCalismalarim\tsl_oyunu\tsl_oyunu\bin\Debug\tsl_oyunu.pdb
+D:\C#\CSharpCalismalarim\tsl_oyunu\tsl_oyunu\obj\Debug\tsl_oyunu.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\tsl_oyunu\tsl_oyunu\obj\Debug\tsl_oyunu.Form1.resources
+D:\C#\CSharpCalismalarim\tsl_oyunu\tsl_oyunu\obj\Debug\tsl_oyunu.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\tsl_oyunu\tsl_oyunu\obj\Debug\tsl_oyunu.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\tsl_oyunu\tsl_oyunu\obj\Debug\tsl_oyunu.exe
+D:\C#\CSharpCalismalarim\tsl_oyunu\tsl_oyunu\obj\Debug\tsl_oyunu.pdb

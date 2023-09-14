@@ -1,0 +1,9 @@
+D:\C#\CSharpCalismalarim\KlavyeKontrolu\KlavyeKontrolu\bin\Debug\KlavyeKontrolu.exe.config
+D:\C#\CSharpCalismalarim\KlavyeKontrolu\KlavyeKontrolu\bin\Debug\KlavyeKontrolu.exe
+D:\C#\CSharpCalismalarim\KlavyeKontrolu\KlavyeKontrolu\bin\Debug\KlavyeKontrolu.pdb
+D:\C#\CSharpCalismalarim\KlavyeKontrolu\KlavyeKontrolu\obj\Debug\KlavyeKontrolu.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\KlavyeKontrolu\KlavyeKontrolu\obj\Debug\KlavyeKontrolu.Form1.resources
+D:\C#\CSharpCalismalarim\KlavyeKontrolu\KlavyeKontrolu\obj\Debug\KlavyeKontrolu.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\KlavyeKontrolu\KlavyeKontrolu\obj\Debug\KlavyeKontrolu.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\KlavyeKontrolu\KlavyeKontrolu\obj\Debug\KlavyeKontrolu.exe
+D:\C#\CSharpCalismalarim\KlavyeKontrolu\KlavyeKontrolu\obj\Debug\KlavyeKontrolu.pdb

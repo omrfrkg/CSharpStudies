@@ -1,0 +1,9 @@
+C:\Users\omerr\source\repos\FinalHazirlik2\FinalHazirlik2\bin\Debug\FinalHazirlik2.exe.config
+C:\Users\omerr\source\repos\FinalHazirlik2\FinalHazirlik2\bin\Debug\FinalHazirlik2.exe
+C:\Users\omerr\source\repos\FinalHazirlik2\FinalHazirlik2\bin\Debug\FinalHazirlik2.pdb
+C:\Users\omerr\source\repos\FinalHazirlik2\FinalHazirlik2\obj\Debug\FinalHazirlik2.csprojAssemblyReference.cache
+C:\Users\omerr\source\repos\FinalHazirlik2\FinalHazirlik2\obj\Debug\FinalHazirlik2.Form1.resources
+C:\Users\omerr\source\repos\FinalHazirlik2\FinalHazirlik2\obj\Debug\FinalHazirlik2.Properties.Resources.resources
+C:\Users\omerr\source\repos\FinalHazirlik2\FinalHazirlik2\obj\Debug\FinalHazirlik2.csproj.GenerateResource.cache
+C:\Users\omerr\source\repos\FinalHazirlik2\FinalHazirlik2\obj\Debug\FinalHazirlik2.exe
+C:\Users\omerr\source\repos\FinalHazirlik2\FinalHazirlik2\obj\Debug\FinalHazirlik2.pdb

@@ -1,0 +1,8 @@
+C:\Users\omerr\source\repos\yks_puan_hesaplama\yks_puan_hesaplama\bin\Debug\yks_puan_hesaplama.exe.config
+C:\Users\omerr\source\repos\yks_puan_hesaplama\yks_puan_hesaplama\bin\Debug\yks_puan_hesaplama.exe
+C:\Users\omerr\source\repos\yks_puan_hesaplama\yks_puan_hesaplama\bin\Debug\yks_puan_hesaplama.pdb
+C:\Users\omerr\source\repos\yks_puan_hesaplama\yks_puan_hesaplama\obj\Debug\yks_puan_hesaplama.Form1.resources
+C:\Users\omerr\source\repos\yks_puan_hesaplama\yks_puan_hesaplama\obj\Debug\yks_puan_hesaplama.Properties.Resources.resources
+C:\Users\omerr\source\repos\yks_puan_hesaplama\yks_puan_hesaplama\obj\Debug\yks_puan_hesaplama.csproj.GenerateResource.cache
+C:\Users\omerr\source\repos\yks_puan_hesaplama\yks_puan_hesaplama\obj\Debug\yks_puan_hesaplama.exe
+C:\Users\omerr\source\repos\yks_puan_hesaplama\yks_puan_hesaplama\obj\Debug\yks_puan_hesaplama.pdb

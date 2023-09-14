@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SifrelemeDeneme2", "SifrelemeDeneme2\SifrelemeDeneme2.csproj", "{ECD750C3-3F71-40AE-9923-3D09517056B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD750C3-3F71-40AE-9923-3D09517056B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD750C3-3F71-40AE-9923-3D09517056B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD750C3-3F71-40AE-9923-3D09517056B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD750C3-3F71-40AE-9923-3D09517056B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B027DEE2-91C3-4FC1-A2C6-7B3EB34BEF86}
+	EndGlobalSection
+EndGlobal

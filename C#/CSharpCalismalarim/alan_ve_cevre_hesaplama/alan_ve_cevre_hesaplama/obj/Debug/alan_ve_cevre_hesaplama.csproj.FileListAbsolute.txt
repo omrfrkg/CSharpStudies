@@ -1,0 +1,9 @@
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\alan_ve_cevre_hesaplama\alan_ve_cevre_hesaplama\bin\Debug\alan_ve_cevre_hesaplama.exe.config
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\alan_ve_cevre_hesaplama\alan_ve_cevre_hesaplama\bin\Debug\alan_ve_cevre_hesaplama.exe
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\alan_ve_cevre_hesaplama\alan_ve_cevre_hesaplama\bin\Debug\alan_ve_cevre_hesaplama.pdb
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\alan_ve_cevre_hesaplama\alan_ve_cevre_hesaplama\obj\Debug\alan_ve_cevre_hesaplama.csprojAssemblyReference.cache
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\alan_ve_cevre_hesaplama\alan_ve_cevre_hesaplama\obj\Debug\alan_ve_cevre_hesaplama.Form1.resources
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\alan_ve_cevre_hesaplama\alan_ve_cevre_hesaplama\obj\Debug\alan_ve_cevre_hesaplama.Properties.Resources.resources
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\alan_ve_cevre_hesaplama\alan_ve_cevre_hesaplama\obj\Debug\alan_ve_cevre_hesaplama.csproj.GenerateResource.cache
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\alan_ve_cevre_hesaplama\alan_ve_cevre_hesaplama\obj\Debug\alan_ve_cevre_hesaplama.exe
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\alan_ve_cevre_hesaplama\alan_ve_cevre_hesaplama\obj\Debug\alan_ve_cevre_hesaplama.pdb

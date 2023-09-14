@@ -1,0 +1,10 @@
+D:\C#\CSharpCalismalarim\VizeHazirlik Görsel-2\VizeHazirlik\bin\Debug\VizeHazirlik.exe.config
+D:\C#\CSharpCalismalarim\VizeHazirlik Görsel-2\VizeHazirlik\bin\Debug\VizeHazirlik.exe
+D:\C#\CSharpCalismalarim\VizeHazirlik Görsel-2\VizeHazirlik\bin\Debug\VizeHazirlik.pdb
+D:\C#\CSharpCalismalarim\VizeHazirlik Görsel-2\VizeHazirlik\obj\Debug\VizeHazirlik.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\VizeHazirlik Görsel-2\VizeHazirlik\obj\Debug\VizeHazirlik.Form1.resources
+D:\C#\CSharpCalismalarim\VizeHazirlik Görsel-2\VizeHazirlik\obj\Debug\VizeHazirlik.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\VizeHazirlik Görsel-2\VizeHazirlik\obj\Debug\VizeHazirlik.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\VizeHazirlik Görsel-2\VizeHazirlik\obj\Debug\VizeHazirlik.csproj.CoreCompileInputs.cache
+D:\C#\CSharpCalismalarim\VizeHazirlik Görsel-2\VizeHazirlik\obj\Debug\VizeHazirlik.exe
+D:\C#\CSharpCalismalarim\VizeHazirlik Görsel-2\VizeHazirlik\obj\Debug\VizeHazirlik.pdb

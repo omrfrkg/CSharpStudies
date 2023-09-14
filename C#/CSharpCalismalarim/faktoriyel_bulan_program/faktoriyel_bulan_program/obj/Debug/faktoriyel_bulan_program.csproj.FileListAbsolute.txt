@@ -1,0 +1,9 @@
+D:\C#\CSharpCalismalarim\faktoriyel_bulan_program\faktoriyel_bulan_program\bin\Debug\faktoriyel_bulan_program.exe.config
+D:\C#\CSharpCalismalarim\faktoriyel_bulan_program\faktoriyel_bulan_program\bin\Debug\faktoriyel_bulan_program.exe
+D:\C#\CSharpCalismalarim\faktoriyel_bulan_program\faktoriyel_bulan_program\bin\Debug\faktoriyel_bulan_program.pdb
+D:\C#\CSharpCalismalarim\faktoriyel_bulan_program\faktoriyel_bulan_program\obj\Debug\faktoriyel_bulan_program.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\faktoriyel_bulan_program\faktoriyel_bulan_program\obj\Debug\faktoriyel_bulan_program.Form1.resources
+D:\C#\CSharpCalismalarim\faktoriyel_bulan_program\faktoriyel_bulan_program\obj\Debug\faktoriyel_bulan_program.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\faktoriyel_bulan_program\faktoriyel_bulan_program\obj\Debug\faktoriyel_bulan_program.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\faktoriyel_bulan_program\faktoriyel_bulan_program\obj\Debug\faktoriyel_bulan_program.exe
+D:\C#\CSharpCalismalarim\faktoriyel_bulan_program\faktoriyel_bulan_program\obj\Debug\faktoriyel_bulan_program.pdb

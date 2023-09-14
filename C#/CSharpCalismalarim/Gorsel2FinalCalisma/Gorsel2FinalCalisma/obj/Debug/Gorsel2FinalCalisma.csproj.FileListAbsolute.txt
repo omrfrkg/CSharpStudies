@@ -1,0 +1,15 @@
+D:\C#\CSharpCalismalarim\Gorsel2FinalCalisma\Gorsel2FinalCalisma\bin\Debug\Gorsel2FinalCalisma.exe.config
+D:\C#\CSharpCalismalarim\Gorsel2FinalCalisma\Gorsel2FinalCalisma\bin\Debug\Gorsel2FinalCalisma.exe
+D:\C#\CSharpCalismalarim\Gorsel2FinalCalisma\Gorsel2FinalCalisma\bin\Debug\Gorsel2FinalCalisma.pdb
+D:\C#\CSharpCalismalarim\Gorsel2FinalCalisma\Gorsel2FinalCalisma\bin\Debug\Interop.WMPLib.dll
+D:\C#\CSharpCalismalarim\Gorsel2FinalCalisma\Gorsel2FinalCalisma\bin\Debug\AxInterop.WMPLib.dll
+D:\C#\CSharpCalismalarim\Gorsel2FinalCalisma\Gorsel2FinalCalisma\obj\Debug\Gorsel2FinalCalisma.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\Gorsel2FinalCalisma\Gorsel2FinalCalisma\obj\Debug\Interop.WMPLib.dll
+D:\C#\CSharpCalismalarim\Gorsel2FinalCalisma\Gorsel2FinalCalisma\obj\Debug\AxInterop.WMPLib.dll
+D:\C#\CSharpCalismalarim\Gorsel2FinalCalisma\Gorsel2FinalCalisma\obj\Debug\Gorsel2FinalCalisma.csproj.ResolveComReference.cache
+D:\C#\CSharpCalismalarim\Gorsel2FinalCalisma\Gorsel2FinalCalisma\obj\Debug\Gorsel2FinalCalisma.Form1.resources
+D:\C#\CSharpCalismalarim\Gorsel2FinalCalisma\Gorsel2FinalCalisma\obj\Debug\Gorsel2FinalCalisma.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\Gorsel2FinalCalisma\Gorsel2FinalCalisma\obj\Debug\Gorsel2FinalCalisma.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\Gorsel2FinalCalisma\Gorsel2FinalCalisma\obj\Debug\Gorsel2FinalCalisma.csproj.CoreCompileInputs.cache
+D:\C#\CSharpCalismalarim\Gorsel2FinalCalisma\Gorsel2FinalCalisma\obj\Debug\Gorsel2FinalCalisma.exe
+D:\C#\CSharpCalismalarim\Gorsel2FinalCalisma\Gorsel2FinalCalisma\obj\Debug\Gorsel2FinalCalisma.pdb

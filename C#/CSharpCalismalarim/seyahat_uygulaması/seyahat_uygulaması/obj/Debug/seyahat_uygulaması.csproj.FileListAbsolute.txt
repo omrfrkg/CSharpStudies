@@ -1,0 +1,12 @@
+C:\Users\omerr\source\repos\seyahat_uygulaması\seyahat_uygulaması\bin\Debug\seyahat_uygulaması.exe.config
+C:\Users\omerr\source\repos\seyahat_uygulaması\seyahat_uygulaması\bin\Debug\seyahat_uygulaması.exe
+C:\Users\omerr\source\repos\seyahat_uygulaması\seyahat_uygulaması\bin\Debug\seyahat_uygulaması.pdb
+C:\Users\omerr\source\repos\seyahat_uygulaması\seyahat_uygulaması\obj\Debug\seyahat_uygulaması.Form1.resources
+C:\Users\omerr\source\repos\seyahat_uygulaması\seyahat_uygulaması\obj\Debug\seyahat_uygulaması.Properties.Resources.resources
+C:\Users\omerr\source\repos\seyahat_uygulaması\seyahat_uygulaması\obj\Debug\seyahat_uygulaması.csproj.GenerateResource.cache
+C:\Users\omerr\source\repos\seyahat_uygulaması\seyahat_uygulaması\obj\Debug\seyahat_uygulaması.exe
+C:\Users\omerr\source\repos\seyahat_uygulaması\seyahat_uygulaması\obj\Debug\seyahat_uygulaması.pdb
+C:\Users\omerr\source\repos\seyahat_uygulaması\seyahat_uygulaması\obj\Debug\seyahat_uygulaması.csprojAssemblyReference.cache
+C:\Users\omerr\source\repos\seyahat_uygulaması\seyahat_uygulaması\obj\Debug\seyahat_uygulaması.Form2.resources
+C:\Users\omerr\source\repos\seyahat_uygulaması\seyahat_uygulaması\obj\Debug\seyahat_uygulaması.Form3.resources
+C:\Users\omerr\source\repos\seyahat_uygulaması\seyahat_uygulaması\obj\Debug\seyahat_uygulaması.Form4.resources

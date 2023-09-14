@@ -1,0 +1,8 @@
+C:\Users\omerr\source\repos\saat_dakika_hesaplama\saat_dakika_hesaplama\bin\Debug\saat_dakika_hesaplama.exe.config
+C:\Users\omerr\source\repos\saat_dakika_hesaplama\saat_dakika_hesaplama\bin\Debug\saat_dakika_hesaplama.exe
+C:\Users\omerr\source\repos\saat_dakika_hesaplama\saat_dakika_hesaplama\bin\Debug\saat_dakika_hesaplama.pdb
+C:\Users\omerr\source\repos\saat_dakika_hesaplama\saat_dakika_hesaplama\obj\Debug\saat_dakika_hesaplama.Form1.resources
+C:\Users\omerr\source\repos\saat_dakika_hesaplama\saat_dakika_hesaplama\obj\Debug\saat_dakika_hesaplama.Properties.Resources.resources
+C:\Users\omerr\source\repos\saat_dakika_hesaplama\saat_dakika_hesaplama\obj\Debug\saat_dakika_hesaplama.csproj.GenerateResource.cache
+C:\Users\omerr\source\repos\saat_dakika_hesaplama\saat_dakika_hesaplama\obj\Debug\saat_dakika_hesaplama.exe
+C:\Users\omerr\source\repos\saat_dakika_hesaplama\saat_dakika_hesaplama\obj\Debug\saat_dakika_hesaplama.pdb

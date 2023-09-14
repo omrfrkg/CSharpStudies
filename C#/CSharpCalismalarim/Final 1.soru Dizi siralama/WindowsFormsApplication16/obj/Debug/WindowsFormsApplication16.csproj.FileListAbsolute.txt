@@ -1,0 +1,18 @@
+c:\users\mestawin\documents\visual studio 2012\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe.config
+c:\users\mestawin\documents\visual studio 2012\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe
+c:\users\mestawin\documents\visual studio 2012\Projects\WindowsFormsApplication16\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.pdb
+c:\users\mestawin\documents\visual studio 2012\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csprojResolveAssemblyReference.cache
+c:\users\mestawin\documents\visual studio 2012\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Form1.resources
+c:\users\mestawin\documents\visual studio 2012\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Properties.Resources.resources
+c:\users\mestawin\documents\visual studio 2012\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csproj.GenerateResource.Cache
+c:\users\mestawin\documents\visual studio 2012\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.exe
+c:\users\mestawin\documents\visual studio 2012\Projects\WindowsFormsApplication16\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.pdb
+D:\C#\CSharpCalismalarim\Final 1.soru Dizi siralama\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe.config
+D:\C#\CSharpCalismalarim\Final 1.soru Dizi siralama\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.exe
+D:\C#\CSharpCalismalarim\Final 1.soru Dizi siralama\WindowsFormsApplication16\bin\Debug\WindowsFormsApplication16.pdb
+D:\C#\CSharpCalismalarim\Final 1.soru Dizi siralama\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\Final 1.soru Dizi siralama\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Form1.resources
+D:\C#\CSharpCalismalarim\Final 1.soru Dizi siralama\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\Final 1.soru Dizi siralama\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\Final 1.soru Dizi siralama\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.exe
+D:\C#\CSharpCalismalarim\Final 1.soru Dizi siralama\WindowsFormsApplication16\obj\Debug\WindowsFormsApplication16.pdb

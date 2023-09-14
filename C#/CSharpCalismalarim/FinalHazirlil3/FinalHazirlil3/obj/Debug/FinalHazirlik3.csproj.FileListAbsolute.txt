@@ -1,0 +1,8 @@
+C:\Users\omerr\source\repos\FinalHazirlil3\FinalHazirlil3\bin\Debug\FinalHazirlil3.exe.config
+C:\Users\omerr\source\repos\FinalHazirlil3\FinalHazirlil3\bin\Debug\FinalHazirlil3.exe
+C:\Users\omerr\source\repos\FinalHazirlil3\FinalHazirlil3\bin\Debug\FinalHazirlil3.pdb
+C:\Users\omerr\source\repos\FinalHazirlil3\FinalHazirlil3\obj\Debug\FinalHazirlil3.Form1.resources
+C:\Users\omerr\source\repos\FinalHazirlil3\FinalHazirlil3\obj\Debug\FinalHazirlil3.Properties.Resources.resources
+C:\Users\omerr\source\repos\FinalHazirlil3\FinalHazirlil3\obj\Debug\FinalHazirlik3.csproj.GenerateResource.cache
+C:\Users\omerr\source\repos\FinalHazirlil3\FinalHazirlil3\obj\Debug\FinalHazirlil3.exe
+C:\Users\omerr\source\repos\FinalHazirlil3\FinalHazirlil3\obj\Debug\FinalHazirlil3.pdb

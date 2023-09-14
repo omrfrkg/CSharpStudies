@@ -1,0 +1,14 @@
+D:\C#\CSharpCalismalarim\SinemaBiletSatış\SinemaBiletSatış\bin\Debug\SinemaBiletSatış.exe.config
+D:\C#\CSharpCalismalarim\SinemaBiletSatış\SinemaBiletSatış\bin\Debug\SinemaBiletSatış.exe
+D:\C#\CSharpCalismalarim\SinemaBiletSatış\SinemaBiletSatış\bin\Debug\SinemaBiletSatış.pdb
+D:\C#\CSharpCalismalarim\SinemaBiletSatış\SinemaBiletSatış\obj\Debug\SinemaBiletSatış.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\SinemaBiletSatış\SinemaBiletSatış\obj\Debug\SinemaBiletSatış.Form1.resources
+D:\C#\CSharpCalismalarim\SinemaBiletSatış\SinemaBiletSatış\obj\Debug\SinemaBiletSatış.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\SinemaBiletSatış\SinemaBiletSatış\obj\Debug\SinemaBiletSatış.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\SinemaBiletSatış\SinemaBiletSatış\obj\Debug\SinemaBiletSatış.exe
+D:\C#\CSharpCalismalarim\SinemaBiletSatış\SinemaBiletSatış\obj\Debug\SinemaBiletSatış.pdb
+D:\C#\CSharpCalismalarim\SinemaBiletSatış\SinemaBiletSatış\bin\Debug\Interop.WMPLib.dll
+D:\C#\CSharpCalismalarim\SinemaBiletSatış\SinemaBiletSatış\bin\Debug\AxInterop.WMPLib.dll
+D:\C#\CSharpCalismalarim\SinemaBiletSatış\SinemaBiletSatış\obj\Debug\Interop.WMPLib.dll
+D:\C#\CSharpCalismalarim\SinemaBiletSatış\SinemaBiletSatış\obj\Debug\AxInterop.WMPLib.dll
+D:\C#\CSharpCalismalarim\SinemaBiletSatış\SinemaBiletSatış\obj\Debug\SinemaBiletSatış.csproj.ResolveComReference.cache

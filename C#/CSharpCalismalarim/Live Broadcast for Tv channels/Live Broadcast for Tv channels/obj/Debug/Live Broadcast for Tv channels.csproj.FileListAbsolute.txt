@@ -1,0 +1,67 @@
+C:\Users\Ümit\Desktop\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\Live Broadcast for Tv channels.exe
+C:\Users\Ümit\Desktop\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\Live Broadcast for Tv channels.pdb
+C:\Users\Ümit\Desktop\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ümit\Desktop\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ümit\Desktop\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ümit\Desktop\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ümit\Desktop\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ümit\Desktop\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live Broadcast for Tv channels.csproj.ResolveComReference.cache
+C:\Users\Ümit\Desktop\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live_Broadcast_for_Tv_channels.Form1.resources
+C:\Users\Ümit\Desktop\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live_Broadcast_for_Tv_channels.Properties.Resources.resources
+C:\Users\Ümit\Desktop\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live Broadcast for Tv channels.csproj.GenerateResource.Cache
+C:\Users\Ümit\Desktop\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live Broadcast for Tv channels.exe
+C:\Users\Ümit\Desktop\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live Broadcast for Tv channels.pdb
+C:\Users\Coelho\Desktop\Projelerim\C#\Diğer C#\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Interop.WMPLib.dll
+C:\Users\Coelho\Desktop\Projelerim\C#\Diğer C#\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Coelho\Desktop\Projelerim\C#\Diğer C#\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live Broadcast for Tv channels.csproj.ResolveComReference.cache
+C:\Users\Coelho\Desktop\Projelerim\C#\Diğer C#\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live Broadcast for Tv channels.exe
+C:\Users\Coelho\Desktop\Projelerim\C#\Diğer C#\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live Broadcast for Tv channels.pdb
+C:\Users\Coelho\Desktop\Projelerim\C#\Diğer C#\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\Live Broadcast for Tv channels.exe
+C:\Users\Coelho\Desktop\Projelerim\C#\Diğer C#\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\Live Broadcast for Tv channels.pdb
+C:\Users\Coelho\Desktop\Projelerim\C#\Diğer C#\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\Interop.WMPLib.dll
+C:\Users\Coelho\Desktop\Projelerim\C#\Diğer C#\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Coelho\Desktop\Projelerim\C#\Diğer C#\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Coelho\Desktop\Projelerim\C#\Diğer C#\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live_Broadcast_for_Tv_channels.Form1.resources
+C:\Users\Coelho\Desktop\Projelerim\C#\Diğer C#\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live_Broadcast_for_Tv_channels.Properties.Resources.resources
+C:\Users\Coelho\Desktop\Projelerim\C#\Diğer C#\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live Broadcast for Tv channels.csproj.GenerateResource.Cache
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Interop.WMPLib.dll
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\AxInterop.WMPLib.dll
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live Broadcast for Tv channels.csproj.ResolveComReference.cache
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live Broadcast for Tv channels.exe
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live Broadcast for Tv channels.pdb
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\Live Broadcast for Tv channels.exe
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\Live Broadcast for Tv channels.pdb
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\Interop.WMPLib.dll
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\AxInterop.WMPLib.dll
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\ResolveAssemblyReference.cache
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live_Broadcast_for_Tv_channels.Form1.resources
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live_Broadcast_for_Tv_channels.Properties.Resources.resources
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\ornekler\ümit demirtaş\Projelerim\C#\C# Diğer Projeler\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\hasan\Desktop\Yeni klasör\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Interop.WMPLib.dll
+C:\Users\hasan\Desktop\Yeni klasör\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hasan\Desktop\Yeni klasör\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live Broadcast for Tv channels.csproj.ResolveComReference.cache
+C:\Users\hasan\Desktop\Yeni klasör\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live Broadcast for Tv channels.exe
+C:\Users\hasan\Desktop\Yeni klasör\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live Broadcast for Tv channels.pdb
+C:\Users\hasan\Desktop\Yeni klasör\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\Live Broadcast for Tv channels.exe
+C:\Users\hasan\Desktop\Yeni klasör\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\Live Broadcast for Tv channels.pdb
+C:\Users\hasan\Desktop\Yeni klasör\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\Interop.WMPLib.dll
+C:\Users\hasan\Desktop\Yeni klasör\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hasan\Desktop\Yeni klasör\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hasan\Desktop\Yeni klasör\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live_Broadcast_for_Tv_channels.Form1.resources
+C:\Users\hasan\Desktop\Yeni klasör\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live_Broadcast_for_Tv_channels.Properties.Resources.resources
+C:\Users\hasan\Desktop\Yeni klasör\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\hasan\Desktop\Yeni klasör\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\C#\CSharpCalismalarim\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\Live Broadcast for Tv channels.exe
+D:\C#\CSharpCalismalarim\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\Live Broadcast for Tv channels.pdb
+D:\C#\CSharpCalismalarim\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\Interop.WMPLib.dll
+D:\C#\CSharpCalismalarim\Live Broadcast for Tv channels\Live Broadcast for Tv channels\bin\Debug\AxInterop.WMPLib.dll
+D:\C#\CSharpCalismalarim\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live Broadcast for Tv channels.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Interop.WMPLib.dll
+D:\C#\CSharpCalismalarim\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\AxInterop.WMPLib.dll
+D:\C#\CSharpCalismalarim\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live Broadcast for Tv channels.csproj.ResolveComReference.cache
+D:\C#\CSharpCalismalarim\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live_Broadcast_for_Tv_channels.Form1.resources
+D:\C#\CSharpCalismalarim\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live_Broadcast_for_Tv_channels.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live Broadcast for Tv channels.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live Broadcast for Tv channels.exe
+D:\C#\CSharpCalismalarim\Live Broadcast for Tv channels\Live Broadcast for Tv channels\obj\Debug\Live Broadcast for Tv channels.pdb

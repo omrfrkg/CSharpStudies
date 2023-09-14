@@ -1,0 +1,9 @@
+D:\C#\CSharpCalismalarim\ButHazirlik-RakamlarCarpimi\ButHazirlik-RakamlarCarpimi\bin\Debug\ButHazirlik-RakamlarCarpimi.exe.config
+D:\C#\CSharpCalismalarim\ButHazirlik-RakamlarCarpimi\ButHazirlik-RakamlarCarpimi\bin\Debug\ButHazirlik-RakamlarCarpimi.exe
+D:\C#\CSharpCalismalarim\ButHazirlik-RakamlarCarpimi\ButHazirlik-RakamlarCarpimi\bin\Debug\ButHazirlik-RakamlarCarpimi.pdb
+D:\C#\CSharpCalismalarim\ButHazirlik-RakamlarCarpimi\ButHazirlik-RakamlarCarpimi\obj\Debug\ButHazirlik_RakamlarCarpimi.Form1.resources
+D:\C#\CSharpCalismalarim\ButHazirlik-RakamlarCarpimi\ButHazirlik-RakamlarCarpimi\obj\Debug\ButHazirlik_RakamlarCarpimi.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\ButHazirlik-RakamlarCarpimi\ButHazirlik-RakamlarCarpimi\obj\Debug\ButHazirlik-RakamlarCarpimi.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\ButHazirlik-RakamlarCarpimi\ButHazirlik-RakamlarCarpimi\obj\Debug\ButHazirlik-RakamlarCarpimi.exe
+D:\C#\CSharpCalismalarim\ButHazirlik-RakamlarCarpimi\ButHazirlik-RakamlarCarpimi\obj\Debug\ButHazirlik-RakamlarCarpimi.pdb
+D:\C#\CSharpCalismalarim\ButHazirlik-RakamlarCarpimi\ButHazirlik-RakamlarCarpimi\obj\Debug\ButHazirlik-RakamlarCarpimi.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\pizza_siparis_uygulamasi\pizza_siparis_uygulamasi\bin\Debug\pizza_siparis_uygulamasi.exe.config
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\pizza_siparis_uygulamasi\pizza_siparis_uygulamasi\bin\Debug\pizza_siparis_uygulamasi.exe
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\pizza_siparis_uygulamasi\pizza_siparis_uygulamasi\bin\Debug\pizza_siparis_uygulamasi.pdb
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\pizza_siparis_uygulamasi\pizza_siparis_uygulamasi\obj\Debug\pizza_siparis_uygulamasi.csprojAssemblyReference.cache
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\pizza_siparis_uygulamasi\pizza_siparis_uygulamasi\obj\Debug\pizza_siparis_uygulamasi.Form1.resources
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\pizza_siparis_uygulamasi\pizza_siparis_uygulamasi\obj\Debug\pizza_siparis_uygulamasi.Properties.Resources.resources
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\pizza_siparis_uygulamasi\pizza_siparis_uygulamasi\obj\Debug\pizza_siparis_uygulamasi.csproj.GenerateResource.cache
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\pizza_siparis_uygulamasi\pizza_siparis_uygulamasi\obj\Debug\pizza_siparis_uygulamasi.exe
+C:\Users\omerr\OneDrive\Masaüstü\C#\CSharpCalismalarim\pizza_siparis_uygulamasi\pizza_siparis_uygulamasi\obj\Debug\pizza_siparis_uygulamasi.pdb

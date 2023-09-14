@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "radyo_calan_uygulama", "radyo_calan_uygulama\radyo_calan_uygulama.csproj", "{447619D6-C177-471F-B6F5-71C57C981F9B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RadyoSetup", "RadyoSetup\RadyoSetup.vdproj", "{14267FD6-9784-4AAB-89E3-4E2508CB1AD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{447619D6-C177-471F-B6F5-71C57C981F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447619D6-C177-471F-B6F5-71C57C981F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447619D6-C177-471F-B6F5-71C57C981F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447619D6-C177-471F-B6F5-71C57C981F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14267FD6-9784-4AAB-89E3-4E2508CB1AD4}.Debug|Any CPU.ActiveCfg = Debug
+		{14267FD6-9784-4AAB-89E3-4E2508CB1AD4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {413EDFE3-E0B6-4A5E-B66E-884ADC0EBC1F}
+	EndGlobalSection
+EndGlobal

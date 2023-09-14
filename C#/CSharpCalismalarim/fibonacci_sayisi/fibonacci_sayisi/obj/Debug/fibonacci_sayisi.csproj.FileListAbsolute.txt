@@ -1,0 +1,9 @@
+C:\Users\omerr\source\repos\fibonacci_sayisi\fibonacci_sayisi\bin\Debug\fibonacci_sayisi.exe.config
+C:\Users\omerr\source\repos\fibonacci_sayisi\fibonacci_sayisi\bin\Debug\fibonacci_sayisi.exe
+C:\Users\omerr\source\repos\fibonacci_sayisi\fibonacci_sayisi\bin\Debug\fibonacci_sayisi.pdb
+C:\Users\omerr\source\repos\fibonacci_sayisi\fibonacci_sayisi\obj\Debug\fibonacci_sayisi.csprojAssemblyReference.cache
+C:\Users\omerr\source\repos\fibonacci_sayisi\fibonacci_sayisi\obj\Debug\fibonacci_sayisi.Form1.resources
+C:\Users\omerr\source\repos\fibonacci_sayisi\fibonacci_sayisi\obj\Debug\fibonacci_sayisi.Properties.Resources.resources
+C:\Users\omerr\source\repos\fibonacci_sayisi\fibonacci_sayisi\obj\Debug\fibonacci_sayisi.csproj.GenerateResource.cache
+C:\Users\omerr\source\repos\fibonacci_sayisi\fibonacci_sayisi\obj\Debug\fibonacci_sayisi.exe
+C:\Users\omerr\source\repos\fibonacci_sayisi\fibonacci_sayisi\obj\Debug\fibonacci_sayisi.pdb

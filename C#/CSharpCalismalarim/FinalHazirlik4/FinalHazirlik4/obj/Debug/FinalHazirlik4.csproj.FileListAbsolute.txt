@@ -1,0 +1,8 @@
+D:\C#\CSharpCalismalarim\FinalHazirlik4\FinalHazirlik4\bin\Debug\FinalHazirlik4.exe.config
+D:\C#\CSharpCalismalarim\FinalHazirlik4\FinalHazirlik4\bin\Debug\FinalHazirlik4.exe
+D:\C#\CSharpCalismalarim\FinalHazirlik4\FinalHazirlik4\bin\Debug\FinalHazirlik4.pdb
+D:\C#\CSharpCalismalarim\FinalHazirlik4\FinalHazirlik4\obj\Debug\FinalHazirlik4.Form1.resources
+D:\C#\CSharpCalismalarim\FinalHazirlik4\FinalHazirlik4\obj\Debug\FinalHazirlik4.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\FinalHazirlik4\FinalHazirlik4\obj\Debug\FinalHazirlik4.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\FinalHazirlik4\FinalHazirlik4\obj\Debug\FinalHazirlik4.exe
+D:\C#\CSharpCalismalarim\FinalHazirlik4\FinalHazirlik4\obj\Debug\FinalHazirlik4.pdb

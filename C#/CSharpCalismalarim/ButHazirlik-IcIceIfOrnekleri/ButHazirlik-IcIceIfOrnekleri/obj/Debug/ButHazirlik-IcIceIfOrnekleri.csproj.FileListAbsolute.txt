@@ -1,0 +1,9 @@
+D:\C#\CSharpCalismalarim\ButHazirlik-IcIceIfOrnekleri\ButHazirlik-IcIceIfOrnekleri\bin\Debug\ButHazirlik-IcIceIfOrnekleri.exe.config
+D:\C#\CSharpCalismalarim\ButHazirlik-IcIceIfOrnekleri\ButHazirlik-IcIceIfOrnekleri\bin\Debug\ButHazirlik-IcIceIfOrnekleri.exe
+D:\C#\CSharpCalismalarim\ButHazirlik-IcIceIfOrnekleri\ButHazirlik-IcIceIfOrnekleri\bin\Debug\ButHazirlik-IcIceIfOrnekleri.pdb
+D:\C#\CSharpCalismalarim\ButHazirlik-IcIceIfOrnekleri\ButHazirlik-IcIceIfOrnekleri\obj\Debug\ButHazirlik_IcIceIfOrnekleri.Form1.resources
+D:\C#\CSharpCalismalarim\ButHazirlik-IcIceIfOrnekleri\ButHazirlik-IcIceIfOrnekleri\obj\Debug\ButHazirlik_IcIceIfOrnekleri.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\ButHazirlik-IcIceIfOrnekleri\ButHazirlik-IcIceIfOrnekleri\obj\Debug\ButHazirlik-IcIceIfOrnekleri.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\ButHazirlik-IcIceIfOrnekleri\ButHazirlik-IcIceIfOrnekleri\obj\Debug\ButHazirlik-IcIceIfOrnekleri.exe
+D:\C#\CSharpCalismalarim\ButHazirlik-IcIceIfOrnekleri\ButHazirlik-IcIceIfOrnekleri\obj\Debug\ButHazirlik-IcIceIfOrnekleri.pdb
+D:\C#\CSharpCalismalarim\ButHazirlik-IcIceIfOrnekleri\ButHazirlik-IcIceIfOrnekleri\obj\Debug\ButHazirlik-IcIceIfOrnekleri.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\C#\CSharpCalismalarim\Dizi-Foreach Uygulamasi\Dizi-Foreach Uygulamasi\bin\Debug\Dizi-Foreach Uygulamasi.exe.config
+D:\C#\CSharpCalismalarim\Dizi-Foreach Uygulamasi\Dizi-Foreach Uygulamasi\bin\Debug\Dizi-Foreach Uygulamasi.exe
+D:\C#\CSharpCalismalarim\Dizi-Foreach Uygulamasi\Dizi-Foreach Uygulamasi\bin\Debug\Dizi-Foreach Uygulamasi.pdb
+D:\C#\CSharpCalismalarim\Dizi-Foreach Uygulamasi\Dizi-Foreach Uygulamasi\obj\Debug\Dizi-Foreach Uygulamasi.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\Dizi-Foreach Uygulamasi\Dizi-Foreach Uygulamasi\obj\Debug\Dizi_Foreach_Uygulamasi.Form1.resources
+D:\C#\CSharpCalismalarim\Dizi-Foreach Uygulamasi\Dizi-Foreach Uygulamasi\obj\Debug\Dizi_Foreach_Uygulamasi.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\Dizi-Foreach Uygulamasi\Dizi-Foreach Uygulamasi\obj\Debug\Dizi-Foreach Uygulamasi.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\Dizi-Foreach Uygulamasi\Dizi-Foreach Uygulamasi\obj\Debug\Dizi-Foreach Uygulamasi.exe
+D:\C#\CSharpCalismalarim\Dizi-Foreach Uygulamasi\Dizi-Foreach Uygulamasi\obj\Debug\Dizi-Foreach Uygulamasi.pdb

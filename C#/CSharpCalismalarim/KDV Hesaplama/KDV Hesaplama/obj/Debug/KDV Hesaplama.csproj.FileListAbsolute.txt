@@ -1,0 +1,8 @@
+D:\C#\CSharpCalismalarim\KDV Hesaplama\KDV Hesaplama\bin\Debug\KDV Hesaplama.exe.config
+D:\C#\CSharpCalismalarim\KDV Hesaplama\KDV Hesaplama\bin\Debug\KDV Hesaplama.exe
+D:\C#\CSharpCalismalarim\KDV Hesaplama\KDV Hesaplama\bin\Debug\KDV Hesaplama.pdb
+D:\C#\CSharpCalismalarim\KDV Hesaplama\KDV Hesaplama\obj\Debug\KDV_Hesaplama.Form1.resources
+D:\C#\CSharpCalismalarim\KDV Hesaplama\KDV Hesaplama\obj\Debug\KDV_Hesaplama.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\KDV Hesaplama\KDV Hesaplama\obj\Debug\KDV Hesaplama.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\KDV Hesaplama\KDV Hesaplama\obj\Debug\KDV Hesaplama.exe
+D:\C#\CSharpCalismalarim\KDV Hesaplama\KDV Hesaplama\obj\Debug\KDV Hesaplama.pdb

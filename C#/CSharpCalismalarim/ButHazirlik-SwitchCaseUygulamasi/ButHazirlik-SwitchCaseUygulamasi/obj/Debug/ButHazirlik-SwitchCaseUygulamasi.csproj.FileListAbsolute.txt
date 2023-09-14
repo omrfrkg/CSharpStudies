@@ -1,0 +1,9 @@
+D:\C#\CSharpCalismalarim\ButHazirlik-SwitchCaseUygulamasi\ButHazirlik-SwitchCaseUygulamasi\bin\Debug\ButHazirlik-SwitchCaseUygulamasi.exe.config
+D:\C#\CSharpCalismalarim\ButHazirlik-SwitchCaseUygulamasi\ButHazirlik-SwitchCaseUygulamasi\bin\Debug\ButHazirlik-SwitchCaseUygulamasi.exe
+D:\C#\CSharpCalismalarim\ButHazirlik-SwitchCaseUygulamasi\ButHazirlik-SwitchCaseUygulamasi\bin\Debug\ButHazirlik-SwitchCaseUygulamasi.pdb
+D:\C#\CSharpCalismalarim\ButHazirlik-SwitchCaseUygulamasi\ButHazirlik-SwitchCaseUygulamasi\obj\Debug\ButHazirlik-SwitchCaseUygulamasi.csprojAssemblyReference.cache
+D:\C#\CSharpCalismalarim\ButHazirlik-SwitchCaseUygulamasi\ButHazirlik-SwitchCaseUygulamasi\obj\Debug\ButHazirlik_SwitchCaseUygulamasi.Form1.resources
+D:\C#\CSharpCalismalarim\ButHazirlik-SwitchCaseUygulamasi\ButHazirlik-SwitchCaseUygulamasi\obj\Debug\ButHazirlik_SwitchCaseUygulamasi.Properties.Resources.resources
+D:\C#\CSharpCalismalarim\ButHazirlik-SwitchCaseUygulamasi\ButHazirlik-SwitchCaseUygulamasi\obj\Debug\ButHazirlik-SwitchCaseUygulamasi.csproj.GenerateResource.cache
+D:\C#\CSharpCalismalarim\ButHazirlik-SwitchCaseUygulamasi\ButHazirlik-SwitchCaseUygulamasi\obj\Debug\ButHazirlik-SwitchCaseUygulamasi.exe
+D:\C#\CSharpCalismalarim\ButHazirlik-SwitchCaseUygulamasi\ButHazirlik-SwitchCaseUygulamasi\obj\Debug\ButHazirlik-SwitchCaseUygulamasi.pdb
